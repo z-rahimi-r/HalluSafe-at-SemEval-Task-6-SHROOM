@@ -46,7 +46,7 @@ We have trained DeBERTa-v3 model on Stanford Natural Language Inference dataset,
 
 ## Contributors
 - Zahra Rahimi: [Linkedin](https://www.linkedin.com/in/zahra-rahimi-7a089115b/), [Github](https://github.com/z-rahimi-r)
-- Hamidreza Amirzadeh: [Github](https://github.com/Hamiiidreza)
+- Hamidreza Amirzadeh: [Linkedin](https://linkedin.com/in/hamidreza-amirzadeh-26635a181/), [Github](https://github.com/Hamiiidreza)
 - Alireza Sohrabi: [Github](https://github.com/SohrabiAlir)
 
 
