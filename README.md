@@ -32,8 +32,7 @@ We have trained DeBERTa-v3 model on Stanford Natural Language Inference dataset,
 ---------------------------------------
 ## Dataset Examples:
 
-| col1 | col2| col3 |
-|----------|----------|-------------------------------------------------------------------|
+
 | PG    | SRC| The budget cannot be adopted against the will of the European Parliament.|
 |          | HYP|  The European Parliament does not approve the budget. |
 |          | Label| Not Hallucination|
