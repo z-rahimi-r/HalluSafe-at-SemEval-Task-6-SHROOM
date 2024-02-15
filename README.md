@@ -32,14 +32,15 @@ We have trained DeBERTa-v3 model on Stanford Natural Language Inference dataset,
 ---------------------------------------
 ## Dataset Examples:
 
-| column 1 | column 2 |
-|----------|----------|
-| value    | * value 1|
-|          | * value 2|
-|----------|----------|
-| value    | * value 1|
-|          | * value 2|
-
+|----------|----------|-------------------------------------------------------------------|
+| PG    | * SRC| The budget cannot be adopted against the will of the European Parliament.|
+|          | * HYP|  The European Parliament does not approve the budget. |
+|          |* Label| Not Hallucination|
+|----------|----------|-------------------------------------------------------------------|
+| DM    | * SRC| Communistic birds. What is the meaning of communistic? |
+|          | * TGT| Living or having their nests in common. |
+|          | * HYP|Of or pertaining to communism. |
+|          |* Label| Hallucination|
 ------------------
 
 ## Contributors
