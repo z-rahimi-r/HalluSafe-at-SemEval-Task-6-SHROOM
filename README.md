@@ -32,6 +32,13 @@ We have trained DeBERTa-v3 model on Stanford Natural Language Inference dataset,
 ---------------------------------------
 ## Dataset Examples:
 
+| column 1 | column 2 |
+|----------|----------|
+| value    | * value 1|
+|          | * value 2|
+|----------|----------|
+| value    | * value 1|
+|          | * value 2|
 
 ------------------
 
