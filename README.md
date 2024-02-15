@@ -13,7 +13,7 @@ We have trained DeBERTa-v3 model on Stanford Natural Language Inference dataset,
 
 
 ## Saved Models Links:
-### *https://drive.google.com/drive/folders/1EV83Jtot4pPh9h5vwPXbANROoHaqykKa?usp=sharing*
+### NLI_model: *https://drive.google.com/drive/folders/1EV83Jtot4pPh9h5vwPXbANROoHaqykKa?usp=sharing*
 
 ### *https://drive.google.com/drive/folders/1-QAS6bJqLFu1VEz5QGxai29O8N-zOaCT?usp=sharing*
 
