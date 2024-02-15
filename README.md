@@ -15,13 +15,13 @@ We have trained DeBERTa-v3 model on Stanford Natural Language Inference dataset,
 ## Saved Models Links:
 ### NLI_model: *https://drive.google.com/drive/folders/1EV83Jtot4pPh9h5vwPXbANROoHaqykKa?usp=sharing*
 
-### *https://drive.google.com/drive/folders/1-QAS6bJqLFu1VEz5QGxai29O8N-zOaCT?usp=sharing*
+### DeBERTa_DM_model: *https://drive.google.com/drive/folders/1-QAS6bJqLFu1VEz5QGxai29O8N-zOaCT?usp=sharing*
 
-### *https://drive.google.com/drive/folders/1pYzRYe1mKg1LhFz2ATJDSU1FlnBDz8kV?usp=sharing*
+### DeBERTa_MT_model: *https://drive.google.com/drive/folders/1pYzRYe1mKg1LhFz2ATJDSU1FlnBDz8kV?usp=sharing*
 
-### *https://drive.google.com/drive/folders/1YmhZzfgp61WvUTy99Xuu2Ia_9uj6uniN?usp=sharing*
+### DeBERTa_PG_model: *https://drive.google.com/drive/folders/1YmhZzfgp61WvUTy99Xuu2Ia_9uj6uniN?usp=sharing*
 
-### *https://drive.google.com/drive/folders/1-o4ihAXaWTnJNK9eTeQiwRjI8yvvpCNb?usp=sharing*
+### Falcon_7B_model: *https://drive.google.com/drive/folders/1-o4ihAXaWTnJNK9eTeQiwRjI8yvvpCNb?usp=sharing*
 
 ## Data Information:
 - SHROOM folder: contains the original SHROOM task dataset.
